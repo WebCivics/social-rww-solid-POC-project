@@ -2,7 +2,7 @@
 A RWW-Social Networking UI (solid). 
 
 #History
-Existing version (as is now) was uploaded to my webserver http://dev.webcivics.org/ back on Wed, 21 Jan 2015 at 05:33:59 GMT (See HTTP headers). 
+Existing version (as is now) was uploaded to my webserver http://dev.webcivics.org/ back on Wed, 21 Jan 2015 at 05:33:59 GMT ([See HTTP headers](http://dev.webcivics.org/) ). 
 
 (use dummy login-data on http://dev.webcivics.org/ to check it out).
 
