@@ -6,6 +6,8 @@ Existing version (as is now) was uploaded to my webserver http://dev.webcivics.o
 
 (use dummy login-data on http://dev.webcivics.org/ to check it out).
 
+note: [desktop (Webizen) app project](https://github.com/WebCivics/WebizenAppPOCMk1-Beaker_Solid)
+
 # BackGround
 This was after others in the RWW community had started on some apps; but very early days, indeed seemingly before the [solid.mit.edu website](https://web.archive.org/web/20160815000000*/https://solid.mit.edu/) was started.  At the time, RWW (now called solid) only used [webid-tls](https://www.w3.org/2005/Incubator/webid/spec/tls/) and the works on [rww](https://lists.w3.org/Archives/Public/public-rww/), [webid](https://lists.w3.org/Archives/Public/public-webid/) and in-turn also - [Web-Payments](https://lists.w3.org/Archives/Public/public-webpayments/) where the requirements to improve 'capabilities' (putting it simply) for what was then called RWW, led to the creation of [credentials](https://lists.w3.org/Archives/Public/public-credentials/) and in-turn various other related projects. 
 
